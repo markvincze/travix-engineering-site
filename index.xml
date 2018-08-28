@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travix Engineering</title>
+    <link>https://brainy-tip.glitch.me/</link>
+    <description>Recent content on Travix Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Aug 2018 11:56:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://brainy-tip.glitch.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Technologies</title>
+      <link>https://brainy-tip.glitch.me/technologies/</link>
+      <pubDate>Tue, 28 Aug 2018 11:56:16 +0200</pubDate>
+      
+      <guid>https://brainy-tip.glitch.me/technologies/</guid>
+      <description>This page will give an overview of all the technologies (languages, frameworks, data storage) we use at Travix, to make it easier to make technology choices when starting new projects.</description>
+    </item>
+    
+    <item>
+      <title>Incident Management</title>
+      <link>https://brainy-tip.glitch.me/incident-management/</link>
+      <pubDate>Tue, 28 Aug 2018 12:52:16 +0200</pubDate>
+      
+      <guid>https://brainy-tip.glitch.me/incident-management/</guid>
+      <description>Everything about incident management: on-call, 911, PI notifications, etc.</description>
+    </item>
+    
+    <item>
+      <title>Tech Tips</title>
+      <link>https://brainy-tip.glitch.me/tech-tips/</link>
+      <pubDate>Tue, 28 Aug 2018 11:56:09 +0200</pubDate>
+      
+      <guid>https://brainy-tip.glitch.me/tech-tips/</guid>
+      <description>This page collects all the Tech Tips videos we&amp;rsquo;ve recorded.
+(Since these are not public, don&amp;rsquo;t forget to switch to your Travix account on YouTube!)
+ Isolating failure, 2018.08.03, Jorrit TBD  </description>
+    </item>
+    
+    <item>
+      <title>Data Storage Technologies</title>
+      <link>https://brainy-tip.glitch.me/technologies-data-storage/</link>
+      <pubDate>Tue, 28 Aug 2018 13:22:38 +0200</pubDate>
+      
+      <guid>https://brainy-tip.glitch.me/technologies-data-storage/</guid>
+      <description>This is a page about data storage technologies.</description>
+    </item>
+    
+    <item>
+      <title>Languages and Frameworks</title>
+      <link>https://brainy-tip.glitch.me/technologies-languages/</link>
+      <pubDate>Tue, 28 Aug 2018 13:22:33 +0200</pubDate>
+      
+      <guid>https://brainy-tip.glitch.me/technologies-languages/</guid>
+      <description>This is a page about the various programming languages and frameworks we use.</description>
+    </item>
+    
+  </channel>
+</rss>
